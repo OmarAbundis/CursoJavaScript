@@ -4,8 +4,8 @@
     "express": "^4.18.2",
     "npm": "^8.19.2"
   },
-  "name": "cursojavascript",
-  "version": "1.0.2",
+  "name": "webservices",
+  "version": "1.0.0",
   "description": "programas de prueba",
   "main": "index.js",
   "scripts": {
